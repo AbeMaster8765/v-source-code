@@ -1,6 +1,6 @@
 Other Links:
 
-https://www.curseforge.com/minecraft/modpacks/abemasters-ultimate-vanilla-plus/
+https://www.curseforge.com/minecraft/modpacks/abe-vanillaplus
 
 https://modrinth.com/modpack/abe-vanillaplus
 
